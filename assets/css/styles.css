@@ -475,9 +475,6 @@ img {
 }
 
 
-
-
-
 .skills__container {
   display: flex;
   justify-content: space-between;
@@ -544,4 +541,13 @@ img {
 .skills__icon {
   font-size: 2rem;
   margin-right: 0.5rem;
+}
+
+
+.github-icon {
+  color: #000; 
+}
+
+.github-icon:hover {
+  color: #000; 
 }
